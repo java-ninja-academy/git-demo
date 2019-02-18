@@ -1,7 +1,3 @@
 # git-demo
 
-- Second commit
-
-## Second header
-
-*Bold*
+Second Lesson
