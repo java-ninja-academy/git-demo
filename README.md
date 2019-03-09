@@ -6,7 +6,7 @@ Checking lifecycle
 
 
 --- C2 ---
-Change in Branch a
+Change in Branch A
 --- C3 ---
 
 Change in Branch B
