@@ -1,5 +1,5 @@
 # git-demo
-
+R3
 Second Lesson
 
 Checking lifecycle
@@ -11,3 +11,5 @@ Change in Branch a
 
 Change in Branch B
 
+R1
+R2
