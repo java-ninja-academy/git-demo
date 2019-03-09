@@ -1,5 +1,5 @@
 # git-demo
-R3
+CONLICT1
 Second Lesson
 
 Checking lifecycle
